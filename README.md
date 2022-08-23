@@ -1,3 +1,4 @@
+
 # CronoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
@@ -25,3 +26,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+![Captura desde 2022-08-23 17-28-52](https://user-images.githubusercontent.com/87668648/186259448-067c2818-4428-42e6-b3f3-c348d0457a0f.png)
